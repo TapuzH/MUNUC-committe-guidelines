@@ -12,6 +12,19 @@
   "dependencies": {
     "@astrojs/starlight": "^0.34.4",
     "astro": "^5.6.1",
-    "sharp": "^0.34.2"
+    "phosphor-astro": "^2.1.0",
+    "sharp": "^0.34.2",
+    "starlight-auto-sidebar": "^0.1.2",
+    "starlight-heading-badges": "^0.5.0",
+    "starlight-image-zoom": "^0.13.0",
+    "starlight-kbd": "^0.2.0",
+    "starlight-markdown-blocks": "^0.1.0",
+    "starlight-scroll-to-top": "^0.1.1",
+    "starlight-showcases": "^0.3.0",
+    "starlight-sidebar-topics": "^0.6.0",
+    "starlight-theme-rapide": "^0.5.1",
+    "starlight-toc-overview-customizer": "^0.1.0",
+    "starlight-versions": "^0.5.3",
+    "starlight-videos": "^0.3.0"
   }
 }
