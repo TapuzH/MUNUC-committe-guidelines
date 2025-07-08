@@ -20,5 +20,5 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
-# files
-public/files/
+# oversized files
+public/files/oversize/
